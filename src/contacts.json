@@ -1,0 +1,27 @@
+[
+{
+    "name": "Nike",
+    "price":5000,
+    "img":"https://png.pngtree.com/element_our/png_detail/20180928/beautiful-hologram-water-color-frame-png_119551.jpg"
+    },
+    {
+        "name": "Adidas",
+        "price":4000,
+        "img":"https://png.pngtree.com/element_our/png_detail/20180928/beautiful-hologram-water-color-frame-png_119551.jpg"
+      },
+     {
+            "name": "Rebook",
+            "price":15000,
+            "img":"https://png.pngtree.com/element_our/png_detail/20180928/beautiful-hologram-water-color-frame-png_119551.jpg"
+       },
+       {
+                "name": "Xtap",
+                "price":55000,
+                "img":"https://png.pngtree.com/element_our/png_detail/20180928/beautiful-hologram-water-color-frame-png_119551.jpg"
+         },
+        {
+                "name": "Lacoste",
+                "price":999,
+                "img":"https://png.pngtree.com/element_our/png_detail/20180928/beautiful-hologram-water-color-frame-png_119551.jpg"
+         }
+]
