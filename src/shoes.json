@@ -1,0 +1,27 @@
+[
+{
+    "name": "Nike Air Max 270",
+    "price":5000,
+    "img":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/skwgyqrbfzhu6uyeh0gg/air-max-270-mens-shoe-KkLcGR.png"
+    },
+    {
+        "name": "Adidas Sneakers",
+        "price":4000,
+        "img":"https://cdn.runrepeat.com/i/adidas/25085/originals-adidas-schuhe-top-ten-hi-grosze-38-farbe-black-white-noir-blanc-noir-8ae9-380.jpg"
+      },
+     {
+            "name": "Rebook Club C 85",
+            "price":15000,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWKE5fc3c-dJtBRJjLuCC6K5XfSjbDayHAg&usqp=CAU"
+       },
+       {
+                "name": "Xtap Air Mega",
+                "price":55000,
+                "img":"https://rukminim1.flixcart.com/image/714/857/k84t1u80/shoe/e/u/v/981419110509-45-xtep-black-golden-original-imafq76evqwbgbkg.jpeg?q=50"
+         },
+        {
+                "name": "Lacoste",
+                "price":999,
+                "img":"https://i.pinimg.com/originals/a4/cd/69/a4cd6918fdc8d18dade7396e9590ac41.jpg"
+         }
+]

@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import {useDispatch} from 'react-redux';
 import {basketCounter,basketOrders,allCounts} from './redux/basket/action';
-import contacts from '../contacts.json'
+import contacts from '../shoes.json'
 
 const Home=()=>{
     const [left,setLeft]=useState(550)
@@ -32,8 +32,8 @@ const Home=()=>{
                         }}>&#10096;</span>
                         <span onClick={()=>{
                               let slider=document.querySelector('.home_page_shoes_slider');
-                              if(left===-550){
-                               slider.style.left=left+'px'
+                              if(left===-1100){
+                               slider.style.left=550+'px'
                              }else{
                                setLeft(left-550)
                                slider.style.left=left+'px'
